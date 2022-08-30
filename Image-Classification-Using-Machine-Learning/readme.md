@@ -1,2 +1,2 @@
-Cat-Dog Image Classification using Machine Learning.<br>
-Model trained using CNN
+• Cat-Dog Image Classification using Machine Learning.
+• Model trained using CNN
